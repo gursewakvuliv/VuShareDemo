@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VuShareDemo</string>
+    <string name="permission_denied_message"><![CDATA[If you reject permission,you can not use this service\\n\\nPlease turn on permissions at [Setting] > [Permission]]]></string>
+</resources>
